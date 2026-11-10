@@ -1,6 +1,6 @@
 cask "damper" do
-  version "0.1.0"
-  sha256 "d253063b79a5e93f495dc0d4daa8daeae115d36c8dc0ac7ad56823aa1d0129b1"
+  version "0.1.1"
+  sha256 "c87c3147b1dfaa18e9ac4ee951fddd45bf974d246a3fa15b8fda277b40b04ef0"
 
   url "https://github.com/tadassuksteris/damper/releases/download/v#{version}/Damper-#{version}.zip"
   name "Damper"
